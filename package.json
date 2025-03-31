@@ -2,5 +2,8 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
     "vite": "^6.2.3"
+  },
+  "dependencies": {
+    "esbuild": "^0.25.2"
   }
 }
