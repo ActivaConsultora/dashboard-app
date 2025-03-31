@@ -6,8 +6,5 @@ export default defineConfig({
   root: '.', 
   build: {
     outDir: 'dist',
-    rollupOptions: {
-      input: './public/index.html', // 👈 clave
-    }
   }
 })
